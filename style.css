@@ -2,12 +2,16 @@ p{
     color: blue;
     background-color: black;
    text-align: center;
+   font-size-adjust: inherit;
 }
 #mia{
     align-items:center ;
+    border: 0cqmax;
+    background-color: blue;
 }
 h2:hover{
     font-family: 'Times New Roman', Times, serif;
+    text-align: end;
 }
 h1{
     
