@@ -3,8 +3,14 @@ p{
     background-color: black;
    text-align: center;
 }
+#mia{
+    align-items:center ;
+}
 h2:hover{
     font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    
 }
 img{
     height: 30%;
