@@ -1,6 +1,13 @@
 p{
     color: blue;
     background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+h2{
+    background-color: black;
+    border: 0cqmin;
 }
 img{
     height: 30%;
