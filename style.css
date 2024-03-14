@@ -1,9 +1,13 @@
 p{
     color: blue;
     background-color: black;
+   text-align: center;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
 }
 img{
-    height: 50%;
-    width: 50%;
+    height: 30%;
+    width: 30%;
     size: 0cqmax;
 }
